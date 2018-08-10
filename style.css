@@ -38,9 +38,9 @@ header{
 #udacity-view {
 	background: center/cover 
    url("../image/center.jpg");
-	width: 900px;
+	width: 500px;
 	height: 320px;
-	margin-top: 10px;
+	margin-center: 10px;
 	max-width: 100%;
 	text-align: center;	
 	line-height: 120px;

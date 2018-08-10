@@ -38,9 +38,9 @@ header{
 #udacity-view {
 	background: center/cover 
    url("../image/center.jpg");
-	width: 500px;
+	width: 900px;
 	height: 320px;
-	margin-center: 10px;
+	margin-top: 10px;
 	max-width: 100%;
 	text-align: center;	
 	line-height: 120px;
@@ -172,7 +172,7 @@ footer img {
 
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 500px) {
 
 	#udacity-view {
 		height: 150px;
